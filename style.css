@@ -4,3 +4,26 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+/*Base*/
+
+.cabeçalho {
+  background-color:#D72638;
+  color: #0047ab;
+}
+
+.menu {
+  background-color: #0047ab;
+}
+
+.body {
+  background-color: #e1ad01;
+}
+
+.conteúdo {
+  background-color: #D72638;
+}
+
+.marca {
+  background-color: #0047ab;
+}
