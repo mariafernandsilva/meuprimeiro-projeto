@@ -27,6 +27,28 @@ div {
   flex-wrap: wrap;
 }
 
+.menu a {
+  color: #fff;
+  background: #e1ad01;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.menu a:hover {
+  background: #e1ad01;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(img/artemoderna.jpg);
+}
+
 .body {
   background-color: #e1ad01;
   color: #D72638;
