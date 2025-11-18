@@ -6,24 +6,41 @@
 }
 
 /*Base*/
-
+div {
+  font-family: 
+}
 .cabeçalho {
   background-color:#D72638;
   color: #0047ab;
+  text-align: center;
+  font-size: 24p;
+  padding: 20px;
 }
 
 .menu {
   background-color: #0047ab;
+  color: #e1ad01;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
 }
 
 .body {
   background-color: #e1ad01;
+  color: #D72638;
+  padding: 20px;
 }
 
 .conteúdo {
   background-color: #D72638;
+  color: #0047ab;
+  padding: 20px;
 }
 
-.marca {
+.rodapé {
   background-color: #0047ab;
+  color: black;
+  padding: 5px;
 }
