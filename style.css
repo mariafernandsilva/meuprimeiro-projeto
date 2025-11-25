@@ -1,16 +1,20 @@
-/* ======== GERAL ======== */
-* {
+
+/* {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
-}
+  box-sizing: ;
+  border-box;
+}/
 
-/*Base*/
-div {
-  font-family: 
+/*Início*/
+h1{
+  font-family: ;
+}
+h2{
+  font-family: ;
 }
 .cabeçalho {
-  background-color:#D72638;
+  background-color:#ece3db;
   color: #0047ab;
   text-align: center;
   font-size: 24p;
@@ -19,7 +23,7 @@ div {
 
 .menu {
   background-color: #0047ab;
-  color: #e1ad01;
+  color: #ece3db;
   padding: 5px;
   justify-content: center;
   display: flex;
@@ -29,7 +33,7 @@ div {
 
 .menu a {
   color: #fff;
-  background: #e1ad01;
+  background: #ece3db;
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 6px;
@@ -37,7 +41,7 @@ div {
 }
 
 .menu a:hover {
-  background: #e1ad01;
+  background: #ece3db;
   color: #fff;
   border-radius: 20px;
 }
@@ -50,19 +54,20 @@ div {
 }
 
 .body {
-  background-color: #e1ad01;
+  background-color: #ece3db;
   color: #D72638;
   padding: 20px;
 }
 
 .conteúdo {
-  background-color: #D72638;
+  background-color: #ece3db;
   color: #0047ab;
   padding: 20px;
 }
 
 .rodapé {
-  background-color: #0047ab;
-  color: black;
+  text-align: center;
+  background-color: #ece3db;
+  color: #d3a29d);
   padding: 5px;
 }
