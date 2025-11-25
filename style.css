@@ -1,29 +1,23 @@
+/*STYLE*/
 
-/* {
-  margin: 0;
-  padding: 0;
-  box-sizing: ;
-  border-box;
-}/
+/*INDEX*/
+h1 {
+  font-size: 60px;
+  font-family: Poor Richard;
+  color: #ece3db;
+}
 
-/*Início*/
-h1{
-  font-family: ;
-}
-h2{
-  font-family: ;
-}
 .cabeçalho {
-  background-color:#ece3db;
-  color: #0047ab;
+  background-color: #ac2523;
+  color: #31241b;
   text-align: center;
   font-size: 24p;
   padding: 20px;
 }
 
 .menu {
-  background-color: #0047ab;
-  color: #ece3db;
+  background-color: #313131;
+  color: #31241b;
   padding: 5px;
   justify-content: center;
   display: flex;
@@ -32,7 +26,7 @@ h2{
 }
 
 .menu a {
-  color: #fff;
+  color: #31241b;
   background: #ece3db;
   text-decoration: none;
   padding: 8px 15px;
@@ -41,9 +35,9 @@ h2{
 }
 
 .menu a:hover {
-  background: #ece3db;
-  color: #fff;
-  border-radius: 20px;
+  background: #eedbcc;
+  color: #31241b;
+  border-radius: 10px;
 }
 
 .img {
@@ -55,19 +49,24 @@ h2{
 
 .body {
   background-color: #ece3db;
-  color: #D72638;
+  color: #31241b;
   padding: 20px;
 }
 
 .conteúdo {
   background-color: #ece3db;
-  color: #0047ab;
+  color: #31241b;
   padding: 20px;
 }
 
 .rodapé {
   text-align: center;
   background-color: #ece3db;
-  color: #d3a29d);
+  color: #31241b;
   padding: 5px;
 }
+
+/*SOBRE*/
+/*CONTEÚDO*/
+/*CURIOSIDADE*/
+/*CONTATO*/
