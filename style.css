@@ -4,8 +4,7 @@
 h1 {
   font-size: 60px;
   font-family: Poor Richard;
-  color: #ac2523;
-;
+  color: #
 }
 h4 {
   font-family: Century;
@@ -16,7 +15,7 @@ h5 {
 
 /*INDEX*/
 .cabeçalho {
-  background-color: #ece3db;
+  background-color: #f5e5d9;
   color: #1b1717;
   text-align: center;
   font-size: 24p;
@@ -45,7 +44,7 @@ h5 {
 }
 
 .menu a:hover {
-  background: #eedbcc;
+  background: #f5e5d9;
   color: #1b1717;
   border-radius: 10px;
 }
