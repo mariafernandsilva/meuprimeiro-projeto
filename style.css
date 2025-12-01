@@ -1,23 +1,33 @@
 /*STYLE*/
 
-/*INDEX*/
+/*FONT-STYLE*/
 h1 {
   font-size: 60px;
   font-family: Poor Richard;
-  color: #ece3db;
+  color: #ac2523;
+;
+}
+h4 {
+  font-family: Century;
+}
+h5 {
+  font-family: Century;
 }
 
+/*INDEX*/
 .cabeçalho {
-  background-color: #ac2523;
-  color: #31241b;
+  background-color: #ece3db;
+  color: #1b1717;
   text-align: center;
   font-size: 24p;
   padding: 20px;
 }
 
+
 .menu {
-  background-color: #313131;
-  color: #31241b;
+  font-family: Century;
+  background-color: #1b1717;
+  color: #1b1717;
   padding: 5px;
   justify-content: center;
   display: flex;
@@ -26,7 +36,7 @@ h1 {
 }
 
 .menu a {
-  color: #31241b;
+  color: #1b1717;
   background: #ece3db;
   text-decoration: none;
   padding: 8px 15px;
@@ -36,7 +46,7 @@ h1 {
 
 .menu a:hover {
   background: #eedbcc;
-  color: #31241b;
+  color: #1b1717;
   border-radius: 10px;
 }
 
@@ -48,25 +58,274 @@ h1 {
 }
 
 .body {
+  font-family: Century;
   background-color: #ece3db;
-  color: #31241b;
+  color: #1b1717;
   padding: 20px;
 }
 
 .conteúdo {
+  font-family: Century;
   background-color: #ece3db;
-  color: #31241b;
+  color: #1b1717;
   padding: 20px;
 }
 
 .rodapé {
   text-align: center;
   background-color: #ece3db;
-  color: #31241b;
+  color: #1b1717;
   padding: 5px;
 }
 
 /*SOBRE*/
+. {
+  background-color: #ac2523;
+  color: #1b1717;
+  text-align: center;
+  font-size: 24p;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #1b1717;
+  color: #1b1717;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+. {
+  color: #1b1717;
+  background: #ece3db;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+. {
+  background: #eedbcc;
+  color: #1b1717;
+  border-radius: 10px;
+}
+
+. {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(img/artemoderna.jpg);
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  text-align: center;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 5px;
+}
+
 /*CONTEÚDO*/
+. {
+  background-color: #ac2523;
+  color: #1b1717;
+  text-align: center;
+  font-size: 24p;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #1b1717;
+  color: #1b1717;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+. {
+  color: #1b1717;
+  background: #ece3db;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+. {
+  background: #eedbcc;
+  color: #1b1717;
+  border-radius: 10px;
+}
+
+. {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(img/artemoderna.jpg);
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  text-align: center;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 5px;
+}
+
 /*CURIOSIDADE*/
+. {
+  background-color: #ac2523;
+  color: #1b1717;
+  text-align: center;
+  font-size: 24p;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #1b1717;
+  color: #1b1717;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+. {
+  color: #1b1717;
+  background: #ece3db;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+. {
+  background: #eedbcc;
+  color: #1b1717;
+  border-radius: 10px;
+}
+
+. {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(img/artemoderna.jpg);
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  text-align: center;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 5px;
+}
+
 /*CONTATO*/
+. {
+  background-color: #ac2523;
+  color: #1b1717;
+  text-align: center;
+  font-size: 24p;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #1b1717;
+  color: #1b1717;
+  padding: 5px;
+  justify-content: center;
+  display: flex;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+. {
+  color: #1b1717;
+  background: #ece3db;
+  text-decoration: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+. {
+  background: #eedbcc;
+  color: #1b1717;
+  border-radius: 10px;
+}
+
+. {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(img/artemoderna.jpg);
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  font-family: Century;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 20px;
+}
+
+. {
+  text-align: center;
+  background-color: #ece3db;
+  color: #1b1717;
+  padding: 5px;
+}
