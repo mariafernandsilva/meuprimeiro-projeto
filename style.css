@@ -1,7 +1,7 @@
 /*STYLE*/
 .corpo {
   font-family: Century;
-  background-color: #b14848;
+  background-color: #ffffff;
   color: #000000;
   padding: 5px;
   justify-content: center;
@@ -12,11 +12,15 @@
 
 .quadrado {
   color: #1b1717;
-  background: #ac2523;
+  background: #ffe5c0;
   text-decoration: none;
-  padding: 15px 15px;
-  border-radius: 6px;
+  padding: 30px 90px;
+  border-radius: 20px;
   transition: 0.3s;
+}
+
+.mensagem {
+  text-align: center;
 }
 /*FONT-STYLE*/
 h1 {
