@@ -1,4 +1,28 @@
 /*STYLE*/
+.escrita {
+  text-align: center;
+}
+
+.lista {
+  text-align: center;
+}
+
+.lista p {
+  color: #000;
+  background: #fff;
+  text-decoration: none;
+  padding: 1px 1px;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+.lista p:hover {
+  transform: scale(1.03);
+  color: #000;
+  background: #000;
+  border: 2px solid #000;
+  box-shadow: 12px #000;
+}
+
 .corpo {
   font-family: Century;
   background-color: #ffffff;
@@ -24,10 +48,9 @@
 }
 /*FONT-STYLE*/
 h1 {
-  font-size: 50px;
   font-family: Poor Richard;
-  color: #e4281f;
 }
+
 h2 {
   font-size: 30px;
   font-family: Poor Richard;
@@ -40,6 +63,7 @@ h2 {
 h3 {
   font-family: Century;
 }
+
 h4 {
   font-family: Century;
 }
@@ -47,11 +71,16 @@ h5 {
   font-family: Century;
 }
 
-/*INDEX*/
+/*ÍNICIO*/
 .título {
-  text-align: center;
+  color: #e4281f;
   background-color: #fff;
-  padding: 1px;
+}
+
+.título h1 {
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
 }
 
 .cabeçalho {
@@ -60,6 +89,13 @@ h5 {
   text-align: center;
   font-size: 24p;
   padding: 20px;
+}
+
+.cabeçalho h1 {
+  color: #e4281f;
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
 }
 
 .menu {
@@ -93,6 +129,12 @@ h5 {
   justify-content: center;
   align-items: center;
   background-image: url(img/artemoderna.jpg);
+}
+
+.imginicio{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .body {
