@@ -12,7 +12,7 @@
 
 .quadrado {
   color: #1b1717;
-  background: #ffe5c0;
+  background: #fff;
   text-decoration: none;
   padding: 30px 90px;
   border-radius: 20px;
@@ -24,16 +24,16 @@
 }
 /*FONT-STYLE*/
 h1 {
-  font-size: 60px;
+  font-size: 50px;
   font-family: Poor Richard;
-  color: #ac2523;
+  color: #e4281f;
 }
 h2 {
   font-size: 30px;
   font-family: Poor Richard;
   color: #ac2523;
   text-align: center;
-  background-color: #1b1717;
+  background-color: #fff;
   padding: 10px;
 }
 h4 {
@@ -44,20 +44,25 @@ h5 {
 }
 
 /*INDEX*/
+.título {
+  text-align: center;
+  background-color: #fff;
+  padding: 1px;
+}
+
 .cabeçalho {
-  background-color: #1b1717;
-  color: #fff;
+  background-color: #fff;
+  color: #1b1717;
   text-align: center;
   font-size: 24p;
   padding: 20px;
 }
 
-
 .menu {
   font-family: Century;
-  background-color: #1b1717;
+  background-color: #fff;
   color: #1b1717;
-  padding: 5px;
+  padding: 10px;
   justify-content: center;
   display: flex;
   gap: 25px;
@@ -66,7 +71,7 @@ h5 {
 
 .menu a {
   color: #1b1717;
-  background: #ac2523;
+  background: #e41f2f;
   text-decoration: none;
   padding: 8px 15px;
   border-radius: 6px;
@@ -74,7 +79,7 @@ h5 {
 }
 
 .menu a:hover {
-  background: #ece3db;
+  background: #fff;
   color: #1b1717;
   border-radius: 10px;
 }
@@ -88,21 +93,21 @@ h5 {
 
 .body {
   font-family: Century;
-  background-color: #ece3db;
+  background-color: #fff;
   color: #1b1717;
   padding: 20px;
 }
 
 .conteúdo {
   font-family: Century;
-  background-color: #ece3db;
+  background-color: #fff;
   color: #1b1717;
   padding: 20px;
 }
 
 .rodapé {
   text-align: center;
-  background-color: #ece3db;
+  background-color: #fff;
   color: #1b1717;
   padding: 5px;
 }
